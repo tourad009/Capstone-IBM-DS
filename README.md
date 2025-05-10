@@ -24,4 +24,4 @@ The goal of this project is to predict whether the **first stage of the Falcon 9
 - Delivered an interactive dashboard for visual exploration and decision support.
 
 ## 🙌 Acknowledgments  
-This project was completed as part of the **IBM Data Science Capstone**.
+This project was completed as part of the **IBM Data Science Professional Certificate**.
